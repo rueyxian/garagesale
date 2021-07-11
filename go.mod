@@ -1,3 +1,3 @@
-module github.com/training/garagesale
+module github.com/naixyeur/garagesale
 
-go 1.14
+go 1.16
